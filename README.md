@@ -45,7 +45,7 @@
 
 ---
 
-## ✨ Features
+## ✨ Featuress
 
 - **🔗 URL Shortening:** Compress your URLs to their minimal length.
 - **📈 Analytics:** Monitor link analytics and gather insightful statistics.
